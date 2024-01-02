@@ -7,6 +7,5 @@ int main()
     int b=322;
     int c;
     c=a+b;
-    printf("\n%d\n",c);
     return 0;
 }
