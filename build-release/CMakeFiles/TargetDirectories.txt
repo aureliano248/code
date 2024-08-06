@@ -1,0 +1,3 @@
+/home/wfw/code/build-release/CMakeFiles/main.dir
+/home/wfw/code/build-release/CMakeFiles/edit_cache.dir
+/home/wfw/code/build-release/CMakeFiles/rebuild_cache.dir
